@@ -11,3 +11,6 @@ You need to add the proper URL in the LocationServiceHelper.java class and run b
 Directory.
 
 `mvn clean compile cobertura:cobertura assembly:single`
+
+
+Once you execute the above commands, you get fat jar. Execute the fat jar, you would get CSV file.
